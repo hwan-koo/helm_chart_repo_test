@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  downward-api-chart:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2024-10-08T17:49:31.342694+09:00"
+    description: A Helm chart for Kubernetes
+    digest: 4649002899be7c3dfa185c6db660c72cda2f70d61437885f9e81cc39881fd8d8
+    name: downward-api-chart
+    type: application
+    urls:
+    - https://hwan-koo.github.io/helm_chart_repo_test/downward-api-chart-0.1.0.tgz
+    version: 0.1.0
+generated: "2024-10-08T17:49:31.341962+09:00"
